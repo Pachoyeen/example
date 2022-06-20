@@ -9,3 +9,4 @@ class DistanceBwPoint
             System.out.println("distancebetween"+"("+x1+","+y1+"),"+"("+x2+","+y2+")===>"+dis);
 	}
 }
+//oblicza dystans miedzy dwoma miejscami!!!
